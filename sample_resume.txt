@@ -1,0 +1,22 @@
+Kavya K
+kavya@email.com | +91 98765 43210 | linkedin.com/in/kavya | github.com/kavya
+
+SUMMARY
+Final-year CS student with 2 years of hands-on experience building Python and machine learning projects.
+
+SKILLS
+Python, SQL, Pandas, NumPy, Scikit-learn, Git, Streamlit, Problem Solving, Teamwork
+
+EXPERIENCE
+Data Science Intern, TechCorp (Jun 2024 - Dec 2024)
+- Responsible for cleaning datasets and building dashboards
+- Worked on a churn prediction model using Scikit-learn
+- Built an internal tool with Streamlit used by 25 analysts
+- Improved report generation speed by 40%
+
+Machine Learning Project (2023 - 2024)
+- Developed an NLP resume classifier with 88% accuracy
+- Helped to deploy the model using Flask and Git
+
+EDUCATION
+B.Tech in Computer Science, 2021 - 2025

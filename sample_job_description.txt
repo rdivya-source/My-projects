@@ -1,0 +1,13 @@
+Machine Learning Engineer
+
+Requirements:
+- 2+ years of experience with Python and machine learning
+- Strong SQL and Pandas skills
+- Experience with NLP and LLMs
+- Docker and Git for deployment
+- Bachelor's degree in Computer Science
+
+Nice to have:
+- AWS or Azure
+- Streamlit or Flask
+- Unit testing and CI/CD
